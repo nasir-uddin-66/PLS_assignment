@@ -1,7 +1,7 @@
-## PLS_assignment
+# PLS_assignment
 
 
-# Memory Allocation in Arrays: C++ vs Python
+## Memory Allocation in Arrays: C++ vs Python
 
 This section explains different types of array memory allocation (fixed/stack/heap dynamic) in **C++** and **Python** with code examples.
 
